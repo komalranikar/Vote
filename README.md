@@ -35,35 +35,35 @@ Here is a simple example of how to interact with the system:
 
 1. Register a voter:
 
-![Ss](Picture2.png)
+![Ss](1.png)
 
    
 
 2. Add a candidate:
 
-![Ss](Picture2.png)
+![Ss](2.png)
 
   
 
 3. Cast a vote:
 
-![Ss](Picture2.png)
+![Ss](3.png)
 
    
 
 4. Display results:
 
-   ![Ss](Picture2.png)
+![Ss](4.png)
 
 
 
 5. Verify votes:
 
-   ![Ss](Picture2.png)
+![Ss](5.png)
 
 
 6. View audit log:
 
-![Ss](Picture2.png)
+![Ss](6.png)
 
   
